@@ -1,4 +1,4 @@
-amount =float(input("please enter amount for withdra :"))
+amount =int(input("please enter amount for withdra :"))
 
 note_1 = amount//100
 note_2 = (amount%100)//50
